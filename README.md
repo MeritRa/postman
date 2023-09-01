@@ -4,6 +4,7 @@
 ![11.png](assets%2F11.png)
 ![12.png](assets%2F12.png)
 ![13.png](assets%2F13.png)
+![14.png](assets%2F14.png)
 
 - ### Публикация новой новости
 ![20.png](assets%2F20.png)
